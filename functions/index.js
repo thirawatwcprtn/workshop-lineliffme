@@ -3,7 +3,6 @@ Cloud Functions for Firebase 2nd Gen
 https://medium.com/firebasethailand/cdda33bbd7dd
 
 */
-// Original Project from line LIFF
 
 const { setGlobalOptions } = require("firebase-functions/v2");
 const { onRequest } = require("firebase-functions/v2/https");
